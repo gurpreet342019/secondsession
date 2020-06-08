@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.guri.JenIntegration.AppTest" time="0.005" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="MavenInt"/>
+    <property name="username" value="Gurpreet"/>
+    <property name="PWD" value="/"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/Users/Shared/Jenkins/Home"/>
+    <property name="PATH" value="/usr/bin:/bin:/usr/sbin:/sbin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="a0792735b4e54dba"/>
+    <property name="POM_ARTIFACTID" value="JenIntegration"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="user.country.format" value="IN"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="JenIntegration"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="ROOT_BUILD_CAUSE" value="MANUALTRIGGER"/>
+    <property name="user.name" value="jenkins"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="MavenInt"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/MavenInt/31/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#31"/>
+    <property name="TMPDIR" value="/var/folders/7n/nm73s_xs1qv87kz5k_vp231c00008f/T/"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="XPC_FLAGS" value="0x0"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="31"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Applications/apache-maven-3.6.0/conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.14.6"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/MavenInt/31/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/MavenInt/display/redirect"/>
+    <property name="SHLVL" value="0"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="LOGNAME" value="jenkins"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="HOME" value="/Users/Shared/Jenkins"/>
+    <property name="POM_GROUPID" value="com.guri"/>
+    <property name="BUILD_USER_ID" value="gurpreet625"/>
+    <property name="user.home" value="/Users/Shared/Jenkins"/>
+    <property name="BUILD_TAG" value="jenkins-MavenInt-31"/>
+    <property name="JENKINS_SERVER_COOKIE" value="a0792735b4e54dba"/>
+    <property name="BUILD_USER_FIRST_NAME" value="Gurpreet"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="XPC_SERVICE_NAME" value="org.jenkins-ci"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="/Users/Shared/Jenkins/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="ROOT_BUILD_CAUSE_MANUALTRIGGER" value="true"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/Applications/apache-maven-3.6.0"/>
+    <property name="java.class.path" value="/Users/Shared/Jenkins/Home/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.13.jar:/Applications/apache-maven-3.6.0/boot/plexus-classworlds-2.5.2.jar:/Applications/apache-maven-3.6.0/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Applications/apache-maven-3.6.0 /Users/Shared/Jenkins/Home/war/WEB-INF/lib/remoting-4.2.jar /Users/Shared/Jenkins/Home/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /Users/Shared/Jenkins/Home/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 63709"/>
+    <property name="BUILD_USER_EMAIL" value="gurpreet625@gmail.com"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/Applications/apache-maven-3.6.0"/>
+    <property name="java.awt.headless" value="true"/>
+    <property name="java.io.tmpdir" value="/var/folders/7n/nm73s_xs1qv87kz5k_vp231c00008f/T/"/>
+    <property name="HUDSON_HOME" value="/Users/Shared/Jenkins/Home"/>
+    <property name="PATH+MAVEN" value="/Applications/apache-maven-3.6.0/bin"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/MavenInt/31/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="JAVA_MAIN_CLASS_50731" value="Main"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="com.apple.java.jvmTask" value="CommandLine"/>
+    <property name="java.ext.dirs" value="/Users/Shared/Jenkins/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="__CF_USER_TEXT_ENCODING" value="0x10E:0:0"/>
+    <property name="user.dir" value="/Users/gurpreet_singh10/eclipse-workspace/JenIntegration"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/MavenInt/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="JAVA_ARCH" value="x86_64"/>
+    <property name="MAVEN_HOME" value="/Applications/apache-maven-3.6.0"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="31"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="BUILD_CAUSE_MANUALTRIGGER" value="true"/>
+    <property name="BUILD_USER" value="Gurpreet"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="maven3.interceptor" value="/Users/Shared/Jenkins/Home/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="/Users/gurpreet_singh10/eclipse-workspace/JenIntegration@tmp"/>
+    <property name="WORKSPACE" value="/Users/gurpreet_singh10/eclipse-workspace/JenIntegration"/>
+    <property name="maven3.interceptor.common" value="/Users/Shared/Jenkins/Home/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="BUILD_CAUSE" value="MANUALTRIGGER"/>
+    <property name="USER" value="jenkins"/>
+  </properties>
+  <testcase classname="com.guri.JenIntegration.AppTest" name="firstTest" time="0.005"/>
+</testsuite>
